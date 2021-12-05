@@ -3,4 +3,5 @@ I am testing GIT commands:
 2
 3
 4
-5_UP!
+5
+6_UP!
