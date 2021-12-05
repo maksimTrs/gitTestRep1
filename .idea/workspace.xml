@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63c213ff-a958-4050-af67-3aced3699382" name="Default Changelist" comment="Init IDEA commit" />
+    <list default="true" id="63c213ff-a958-4050-af67-3aced3699382" name="Default Changelist" comment="update testFile 4" />
+    <list id="d4a5e8b9-e11e-4ed2-80e4-0d7356672307" name="Revert &quot;FAILED commit&quot;" comment="Revert &quot;FAILED commit&quot;&#10;&#10;This reverts commit 0273cdd5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +11,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="21rsRsdDGAjJq9v0QTvk5MlLQ3i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,6 +40,17 @@
     <configuration name="TestClass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestClass1" />
       <module name="gitTestRep1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,7 +81,49 @@
       <option name="project" value="LOCAL" />
       <updated>1638719659557</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="was added testFile2.txt">
+      <created>1638725630574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638725630574</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FAILED commit">
+      <created>1638726078705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638726078705</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update testFile 1">
+      <created>1638726394554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638726394555</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update testFile 2">
+      <created>1638726402737</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638726402737</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update testFile 3">
+      <created>1638726421536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638726421536</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update testFile 4">
+      <created>1638726547555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638726547555</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,9 +148,32 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init IDEA commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init IDEA commit" />
+    <MESSAGE value="Was added testFile1.txt" />
+    <MESSAGE value="was added testFile2.txt" />
+    <MESSAGE value="FAILED commit" />
+    <MESSAGE value="update testFile 1" />
+    <MESSAGE value="update testFile 2" />
+    <MESSAGE value="update testFile 3" />
+    <MESSAGE value="update testFile 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update testFile 4" />
   </component>
 </project>
