@@ -2,3 +2,4 @@
 .env
 temp/*
 cache/*
+*.idea
